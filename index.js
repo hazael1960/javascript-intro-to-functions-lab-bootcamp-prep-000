@@ -18,8 +18,8 @@ function sayHiToGrandma(string) {
  var uppercase = 'HELLO'
 if (string.toUpperCase() === uppercase) {
       return 'YES INDEED!'
+} 
+}
 
-}
-}
   
 
